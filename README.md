@@ -4,7 +4,7 @@
 
 ---
 
-- 🔭 I’m currently working on: My first Python projects (a quiz game and a personal website!)
+- 🔭 I’m currently working on: A calculator app in Python that can add, subtract, multiply, and divide!
 - 🌱 I’m currently learning: Python, HTML & CSS, GitHub, and how to build a developer portfolio
 - 👯 I’m looking to collaborate on: Beginner-friendly coding projects and website ideas
 - 🤔 I’m looking for help with: Improving my GitHub skills and creating fun mini apps
